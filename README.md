@@ -1,4 +1,6 @@
-## Hi 👋, I'm Shravya Timmanna Nayak
+## Hi there👋, I'm Shravya Timmanna Nayak
+
+Full Stack Developer passionate about building clean, efficient, and responsive web applications. Skilled in Java, JavaScript, Node.js, Angular, React, HTML, CSS, and backend technologies. Always eager to learn, grow, and build impactful digital experiences.
 
 <!--
 **shravya-nayak/Shravya-Nayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
