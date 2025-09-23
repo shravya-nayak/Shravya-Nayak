@@ -1,4 +1,4 @@
- Hi there 👋, I'm Shravya Timmanna Nayak  
+                              Hi there 👋, I'm Shravya Timmanna Nayak  
 
 💻 **Full Stack Developer** passionate about building clean, efficient, and responsive web applications.  
 🚀 Skilled in **Java, Python, Node.js, React, HTML, CSS, and backend technologies**.  
